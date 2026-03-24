@@ -128,3 +128,22 @@ azure-healthcare-icu-platform/
 All credentials and connection strings have been removed from this repository.
 Never commit real Azure credentials to version control.
 Use **Azure Key Vault** or **environment variables** in production.
+
+---
+
+## 📸 Screenshots
+
+### Pipeline Execution — All 4 Notebooks Succeeded
+![Pipeline Success](assets/01_pipeline_success.png)
+
+### Silver to Gold — Clinical Risk Scoring Output
+![Silver to Gold Output](assets/02_silver_to_gold_output.png)
+
+### Power BI Dashboard — ICU Patient Monitoring
+![Power BI Dashboard](assets/03_powerbi_dashboard.png)
+
+### Microsoft Fabric Lakehouse — Delta Tables
+![Lakehouse Tables](assets/04_lakehouse_tables.png)
+
+### Azure ADLS Gen2 — Medallion Architecture Storage
+![ADLS Containers](assets/05_adls_containers.png)
